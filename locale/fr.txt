@@ -1,10 +1,5 @@
 #: locale=fr
 
-## Hotspot
-
-### Tooltip
-sprite_5B41B300_50B9_779F_41CD_21866146D072.toolTip = TEST
-
 ## Media
 
 ### Title
